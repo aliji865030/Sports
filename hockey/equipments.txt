@@ -1,0 +1,8 @@
+1-Hockey Stick
+2-Shin Guards
+3-Mouthguard
+4-Gloves
+5-Jersey (Shirt)
+6-Shorts or Skirt
+7-Socks
+8-Footwear
