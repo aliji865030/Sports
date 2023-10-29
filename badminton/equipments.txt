@@ -1,0 +1,13 @@
+1-Badminton Racket
+2-Shuttlecock
+3-Badminton Net
+4-Badminton Court
+5-Shoes
+6-Badminton Grip
+7-Sportswear
+8-Eyewear
+9-Racket Bag
+10-Stringing Machine
+11-Grip Powder
+12-Wristbands and Headbands
+13-Scoreboard

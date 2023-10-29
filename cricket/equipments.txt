@@ -1,0 +1,16 @@
+Batting Equipment:
+
+1-Cricket Bat
+2-Batting Gloves
+3-Batting Pads
+4-Helmet
+5-Thigh Guard
+
+
+
+Bowling Equipment:
+
+1-Cricket Ball
+2-Bowling Shoes
+3-Fielding Gloves
+4-Fielding Pads
