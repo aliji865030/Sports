@@ -1,7 +1,0 @@
-1-Football
-2-Football Boots
-3-Shin Guards
-4-Socks
-5-Shorts
-6-Jersey (Shirt)
-7-Goalkeeper Gloves
